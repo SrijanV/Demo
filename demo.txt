@@ -1,3 +1,0 @@
-This is a sample text file.
-
-There is some data in it.
